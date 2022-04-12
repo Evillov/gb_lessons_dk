@@ -1,0 +1,3 @@
+print(name:="sasdasda")
+print(id(name))
+
